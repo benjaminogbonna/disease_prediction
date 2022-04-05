@@ -1,0 +1,13 @@
+# Requirments:
+
+Python
+pandas
+numpy
+scipy
+sklearn
+1. create a virtual env, install the above required packages using pip (except python)
+
+
+2. you can install anaconda which comes with all these packages by default
+
+3.  even better, you can run this on google colab without installing anything on your pc: https://colab.research.google.com/
